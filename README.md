@@ -1,1 +1,1 @@
-# python1
+# exercises by learning python
